@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hi there 👋, I'm Tasnim
 
@@ -58,9 +58,6 @@ I have experience working across both **software engineering** and **machine lea
 
 ---
 
-## 📈 GitHub Stats
-
-![Tasnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
